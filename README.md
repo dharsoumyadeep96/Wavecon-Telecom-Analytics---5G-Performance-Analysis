@@ -4,6 +4,9 @@
 
 A comprehensive Power BI dashboard analyzing the impact of 5G implementation on Wavecon Telecom's business performance across 15 major Indian cities.
 
+## Live Dashboard :- <iframe title="Wavecon_dashboard_analysis1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDc4MWY4MmUtYTQ4MC00NzE3LTg2ZGItYjNlN2M2ZDUyY2NjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 ## 📊 Project Overview
 
 This project analyzes consumer behavior and business results following Wavecon Telecom's 5G launch in May 2022. Through detailed KPI tracking and city-wise performance analysis, the dashboard provides actionable insights for strategic decision-making in the post-5G landscape.
