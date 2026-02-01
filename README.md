@@ -186,8 +186,8 @@ wavecon-telecom-analytics/
 Data Analyst | Virtual Intern at AtliQ Technologies
 
 - **Email**: soumyadeepdhar433@gmail.com
-- **LinkedIn**: [Soumyadeep Dhar](https://linkedin.com/in/soumyadeep-dhar)
-- **GitHub**: [@dharsoumyadeep96](https://github.com/dharsoumyadeep96)
+- **LinkedIn**: www.linkedin.com/in/soumyadeep-dhar-785724333
+- **GitHub**: https://github.com/dharsoumyadeep96
 
 ## 🎓 Skills Demonstrated
 
