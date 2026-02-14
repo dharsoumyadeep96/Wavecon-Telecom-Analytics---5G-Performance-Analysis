@@ -2,6 +2,10 @@
 
 ![Wavecon Banner](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Status](https://img.shields.io/badge/Status-Complete-success) ![Analysis Period](https://img.shields.io/badge/Analysis-Jan--Sep%202022-blue)
 
+##Linkedin Post :-  https://www.linkedin.com/posts/soumyadeep-dhar-785724333_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7423676423908884480-sPfw?utm_source=share&utm_medium=member_android&rcm=ACoAAFPvRVUBwUWqwxWutabazGQxfz-C24G5c4M
+
+
+
 A comprehensive Power BI dashboard analyzing the impact of 5G implementation on Wavecon Telecom's business performance across 15 major Indian cities.
 
 ## Live Dashboard :-https://app.powerbi.com/view?r=eyJrIjoiMDc4MWY4MmUtYTQ4MC00NzE3LTg2ZGItYjNlN2M2ZDUyY2NjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
