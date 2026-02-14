@@ -2,7 +2,7 @@
 
 ![Wavecon Banner](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Status](https://img.shields.io/badge/Status-Complete-success) ![Analysis Period](https://img.shields.io/badge/Analysis-Jan--Sep%202022-blue)
 
-##Linkedin Post :-  https://www.linkedin.com/posts/soumyadeep-dhar-785724333_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7423676423908884480-sPfw?utm_source=share&utm_medium=member_android&rcm=ACoAAFPvRVUBwUWqwxWutabazGQxfz-C24G5c4M
+## Linkedin Post :-  https://www.linkedin.com/posts/soumyadeep-dhar-785724333_codebasicsvirtualinternship-codebasicsvirtualinternship-activity-7423676423908884480-sPfw?utm_source=share&utm_medium=member_android&rcm=ACoAAFPvRVUBwUWqwxWutabazGQxfz-C24G5c4M
 
 
 
